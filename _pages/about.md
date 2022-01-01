@@ -2,23 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Electrical Engineering Ph.D. candidate at Stanford University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sdm.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>348 Via Pueblo</p>
+    <p>Stanford, CA 94305</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth-year graduate student in the [Nanoscale and Quantum Photonics group](https://nqp.stanford.edu) at Stanford University, advised by [Prof. Jelena Vućkovič](https://web.stanford.edu/~jela/). I received my Bachelor of Technology (Electrical Engineering) degree from [IIT Bombay](https://www.iitb.ac.in/) in 2018.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests till date have broadly included quantum optics and quantum control theory. Recently, I have also been interested in variational quantum algorithms, and tensor network methods for quantum many-body physics and machine learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+##### [CV]({% link /assets/pdf/sdm_cv.pdf %}) | [Email](mailto:sdmishra@stanford.edu) | [Twitter](https://twitter.com/SattwikDM)
