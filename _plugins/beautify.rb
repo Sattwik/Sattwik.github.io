@@ -1,4 +1,5 @@
 require 'htmlbeautifier'
+require 'jekyll/scholar'
 
 module Jekyll
     module StripHTML
