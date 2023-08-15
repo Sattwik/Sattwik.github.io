@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year graduate student in the [Nanoscale and Quantum Photonics group](https://nqp.stanford.edu) at Stanford University, advised by [Prof. Jelena Vućkovič](https://web.stanford.edu/~jela/). I received my Bachelor of Technology (Electrical Engineering) degree from [IIT Bombay](https://www.iitb.ac.in/) in 2018.
+I am a fifth-year graduate student in the [Nanoscale and Quantum Photonics group](https://nqp.stanford.edu) at Stanford University, advised by [Prof. Jelena Vućkovič](https://web.stanford.edu/~jela/). I received my Bachelor of Technology (Electrical Engineering) degree from [IIT Bombay](https://www.iitb.ac.in/) in 2018.
 
-My research interests till date have broadly included quantum optics and quantum control theory. Recently, I have also been interested in variational quantum algorithms, and tensor network methods for quantum many-body physics and machine learning.
+My research experience has been both theoretical and numerical in nature and has broadly involved applying tools from optimization theory to problems in quantum computing and quantum optics. I am currently looking for industry positions.
 
 ##### [CV]({% link /assets/pdf/sdm_cv.pdf %}) | [Email](mailto:sdmishra@stanford.edu) | [Twitter](https://twitter.com/SattwikDM)
